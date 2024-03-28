@@ -1,0 +1,12 @@
+D:\work\hatchip\svn_rep\labs\lab_tool_device\PCM\Arcone.Component.Tester.Function.Hatchip\Release\Arcone.Component.Tester.Function.Hatchip.dll
+D:\work\hatchip\svn_rep\labs\lab_tool_device\PCM\Arcone.Component.Tester.Function.Hatchip\Release\Arcone.Component.Tester.Function.Hatchip.pdb
+D:\work\hatchip\svn_rep\labs\lab_tool_device\PCM\Arcone.Component.Tester.Function.Hatchip\Arcone.Component.Tester.Function.Hatchip\obj\x86\Release\Arcone.Component.Tester.Function.Hatchip.csproj.AssemblyReference.cache
+D:\work\hatchip\svn_rep\labs\lab_tool_device\PCM\Arcone.Component.Tester.Function.Hatchip\Arcone.Component.Tester.Function.Hatchip\obj\x86\Release\Arcone.Component.Tester.Function.Hatchip.csproj.CoreCompileInputs.cache
+D:\work\hatchip\svn_rep\labs\lab_tool_device\PCM\Arcone.Component.Tester.Function.Hatchip\Arcone.Component.Tester.Function.Hatchip\obj\x86\Release\Arcone.Component.Tester.Function.Hatchip.dll
+D:\work\hatchip\svn_rep\labs\lab_tool_device\PCM\Arcone.Component.Tester.Function.Hatchip\Arcone.Component.Tester.Function.Hatchip\obj\x86\Release\Arcone.Component.Tester.Function.Hatchip.pdb
+D:\work\hatchip\svn_rep\lab\lab_tool_device\PCM\Arcone.Component.Tester.Function.Hatchip\Release\Arcone.Component.Tester.Function.Hatchip.dll
+D:\work\hatchip\svn_rep\lab\lab_tool_device\PCM\Arcone.Component.Tester.Function.Hatchip\Release\Arcone.Component.Tester.Function.Hatchip.pdb
+D:\work\hatchip\svn_rep\lab\lab_tool_device\PCM\Arcone.Component.Tester.Function.Hatchip\Arcone.Component.Tester.Function.Hatchip\obj\x86\Release\Arcone.Component.Tester.Function.Hatchip.csproj.AssemblyReference.cache
+D:\work\hatchip\svn_rep\lab\lab_tool_device\PCM\Arcone.Component.Tester.Function.Hatchip\Arcone.Component.Tester.Function.Hatchip\obj\x86\Release\Arcone.Component.Tester.Function.Hatchip.csproj.CoreCompileInputs.cache
+D:\work\hatchip\svn_rep\lab\lab_tool_device\PCM\Arcone.Component.Tester.Function.Hatchip\Arcone.Component.Tester.Function.Hatchip\obj\x86\Release\Arcone.Component.Tester.Function.Hatchip.dll
+D:\work\hatchip\svn_rep\lab\lab_tool_device\PCM\Arcone.Component.Tester.Function.Hatchip\Arcone.Component.Tester.Function.Hatchip\obj\x86\Release\Arcone.Component.Tester.Function.Hatchip.pdb
